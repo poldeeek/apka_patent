@@ -1,0 +1,2162 @@
+{
+  "sourceFile": "Baza pytań 2026 .pdf",
+  "sha256": "3884fa1594be07f714f14f606b9e8142c78c2084149a8c96bc97d44df54e1873",
+  "pageCount": 23,
+  "questionCount": 195,
+  "imageCount": 12,
+  "questionsWithImages": 14,
+  "answerKey": "Green highlights in the supplied PDF; answers preserved without factual corrections.",
+  "notes": [
+    "Source repeats number 44 in position 74. IDs follow document order.",
+    "Questions 111 and 139 have labels a/c/d. App options preserve order and use A/B/C.",
+    "Questions 115–117 share the original drawing from page 13.",
+    "Repeated questions and original wording are retained. The PDF contains no explanations."
+  ],
+  "questions": [
+    {
+      "id": "patent-2026-001",
+      "page": 1,
+      "printedNumber": 1,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-002",
+      "page": 1,
+      "printedNumber": 2,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-003",
+      "page": 1,
+      "printedNumber": 3,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-004",
+      "page": 1,
+      "printedNumber": 4,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-005",
+      "page": 1,
+      "printedNumber": 5,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-006",
+      "page": 1,
+      "printedNumber": 6,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-007",
+      "page": 1,
+      "printedNumber": 7,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-008",
+      "page": 1,
+      "printedNumber": 8,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-009",
+      "page": 1,
+      "printedNumber": 9,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-010",
+      "page": 2,
+      "printedNumber": 10,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-011",
+      "page": 2,
+      "printedNumber": 11,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-012",
+      "page": 2,
+      "printedNumber": 12,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-013",
+      "page": 2,
+      "printedNumber": 13,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-014",
+      "page": 2,
+      "printedNumber": 14,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-015",
+      "page": 2,
+      "printedNumber": 15,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-016",
+      "page": 2,
+      "printedNumber": 16,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-017",
+      "page": 2,
+      "printedNumber": 17,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-018",
+      "page": 3,
+      "printedNumber": 18,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-019",
+      "page": 3,
+      "printedNumber": 19,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-020",
+      "page": 3,
+      "printedNumber": 20,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-021",
+      "page": 3,
+      "printedNumber": 21,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-022",
+      "page": 3,
+      "printedNumber": 22,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-023",
+      "page": 3,
+      "printedNumber": 23,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-024",
+      "page": 3,
+      "printedNumber": 24,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-025",
+      "page": 3,
+      "printedNumber": 25,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-026",
+      "page": 3,
+      "printedNumber": 26,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-027",
+      "page": 4,
+      "printedNumber": 27,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-028",
+      "page": 4,
+      "printedNumber": 28,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-029",
+      "page": 4,
+      "printedNumber": 29,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-030",
+      "page": 4,
+      "printedNumber": 30,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-031",
+      "page": 4,
+      "printedNumber": 31,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-032",
+      "page": 4,
+      "printedNumber": 32,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-033",
+      "page": 4,
+      "printedNumber": 33,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-034",
+      "page": 4,
+      "printedNumber": 34,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-035",
+      "page": 4,
+      "printedNumber": 35,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-036",
+      "page": 5,
+      "printedNumber": 36,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-037",
+      "page": 5,
+      "printedNumber": 37,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-038",
+      "page": 5,
+      "printedNumber": 38,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-039",
+      "page": 5,
+      "printedNumber": 39,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-040",
+      "page": 5,
+      "printedNumber": 40,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-041",
+      "page": 5,
+      "printedNumber": 41,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-042",
+      "page": 5,
+      "printedNumber": 42,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-043",
+      "page": 5,
+      "printedNumber": 43,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-044",
+      "page": 5,
+      "printedNumber": 44,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-045",
+      "page": 6,
+      "printedNumber": 45,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-046",
+      "page": 6,
+      "printedNumber": 46,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-047",
+      "page": 6,
+      "printedNumber": 47,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-048",
+      "page": 6,
+      "printedNumber": 48,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-049",
+      "page": 6,
+      "printedNumber": 49,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-050",
+      "page": 6,
+      "printedNumber": 50,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-051",
+      "page": 6,
+      "printedNumber": 51,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-052",
+      "page": 6,
+      "printedNumber": 52,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-053",
+      "page": 6,
+      "printedNumber": 53,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-054",
+      "page": 7,
+      "printedNumber": 54,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-055",
+      "page": 7,
+      "printedNumber": 55,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-056",
+      "page": 7,
+      "printedNumber": 56,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-057",
+      "page": 7,
+      "printedNumber": 57,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-058",
+      "page": 7,
+      "printedNumber": 58,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-059",
+      "page": 7,
+      "printedNumber": 59,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-060",
+      "page": 7,
+      "printedNumber": 60,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-061",
+      "page": 7,
+      "printedNumber": 61,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-062",
+      "page": 7,
+      "printedNumber": 62,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-063",
+      "page": 8,
+      "printedNumber": 63,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-064",
+      "page": 8,
+      "printedNumber": 64,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-065",
+      "page": 8,
+      "printedNumber": 65,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-066",
+      "page": 8,
+      "printedNumber": 66,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-067",
+      "page": 8,
+      "printedNumber": 67,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-068",
+      "page": 8,
+      "printedNumber": 68,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-069",
+      "page": 8,
+      "printedNumber": 69,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-070",
+      "page": 8,
+      "printedNumber": 70,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-071",
+      "page": 8,
+      "printedNumber": 71,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-072",
+      "page": 9,
+      "printedNumber": 72,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-073",
+      "page": 9,
+      "printedNumber": 73,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-074",
+      "page": 9,
+      "printedNumber": 44,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-075",
+      "page": 9,
+      "printedNumber": 75,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-076",
+      "page": 9,
+      "printedNumber": 76,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-077",
+      "page": 9,
+      "printedNumber": 77,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-078",
+      "page": 9,
+      "printedNumber": 78,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-079",
+      "page": 9,
+      "printedNumber": 79,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-080",
+      "page": 9,
+      "printedNumber": 80,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-081",
+      "page": 10,
+      "printedNumber": 81,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-082",
+      "page": 10,
+      "printedNumber": 82,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-083",
+      "page": 10,
+      "printedNumber": 83,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-084",
+      "page": 10,
+      "printedNumber": 84,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-085",
+      "page": 10,
+      "printedNumber": 85,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-086",
+      "page": 10,
+      "printedNumber": 86,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-087",
+      "page": 10,
+      "printedNumber": 87,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-088",
+      "page": 10,
+      "printedNumber": 88,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-089",
+      "page": 10,
+      "printedNumber": 89,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-090",
+      "page": 11,
+      "printedNumber": 90,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-091",
+      "page": 11,
+      "printedNumber": 91,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-092",
+      "page": 11,
+      "printedNumber": 92,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-093",
+      "page": 11,
+      "printedNumber": 93,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-094",
+      "page": 11,
+      "printedNumber": 94,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-095",
+      "page": 11,
+      "printedNumber": 95,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-096",
+      "page": 11,
+      "printedNumber": 96,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-097",
+      "page": 11,
+      "printedNumber": 97,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-098",
+      "page": 11,
+      "printedNumber": 98,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-099",
+      "page": 12,
+      "printedNumber": 99,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-100",
+      "page": 12,
+      "printedNumber": 100,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-101",
+      "page": 12,
+      "printedNumber": 101,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-102",
+      "page": 12,
+      "printedNumber": 102,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-103",
+      "page": 12,
+      "printedNumber": 103,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-104",
+      "page": 12,
+      "printedNumber": 104,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-105",
+      "page": 12,
+      "printedNumber": 105,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-106",
+      "page": 12,
+      "printedNumber": 106,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-107",
+      "page": 13,
+      "printedNumber": 107,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-108",
+      "page": 13,
+      "printedNumber": 108,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-109",
+      "page": 13,
+      "printedNumber": 109,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-110",
+      "page": 13,
+      "printedNumber": 110,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-111",
+      "page": 13,
+      "printedNumber": 111,
+      "printedOptionLabels": [
+        "a",
+        "c",
+        "d"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-112",
+      "page": 13,
+      "printedNumber": 112,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-113",
+      "page": 13,
+      "printedNumber": 113,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-114",
+      "page": 13,
+      "printedNumber": 114,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-115",
+      "page": 13,
+      "printedNumber": 115,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-116",
+      "page": 14,
+      "printedNumber": 116,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-117",
+      "page": 14,
+      "printedNumber": 117,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-118",
+      "page": 14,
+      "printedNumber": 118,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-119",
+      "page": 14,
+      "printedNumber": 119,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-120",
+      "page": 14,
+      "printedNumber": 120,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-121",
+      "page": 14,
+      "printedNumber": 121,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-122",
+      "page": 14,
+      "printedNumber": 122,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-123",
+      "page": 14,
+      "printedNumber": 123,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-124",
+      "page": 15,
+      "printedNumber": 124,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-125",
+      "page": 15,
+      "printedNumber": 125,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-126",
+      "page": 15,
+      "printedNumber": 126,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-127",
+      "page": 15,
+      "printedNumber": 127,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-128",
+      "page": 15,
+      "printedNumber": 128,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-129",
+      "page": 15,
+      "printedNumber": 129,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-130",
+      "page": 15,
+      "printedNumber": 130,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-131",
+      "page": 15,
+      "printedNumber": 131,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-132",
+      "page": 15,
+      "printedNumber": 132,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-133",
+      "page": 16,
+      "printedNumber": 133,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-134",
+      "page": 16,
+      "printedNumber": 134,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-135",
+      "page": 16,
+      "printedNumber": 135,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-136",
+      "page": 16,
+      "printedNumber": 136,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-137",
+      "page": 16,
+      "printedNumber": 137,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-138",
+      "page": 16,
+      "printedNumber": 138,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-139",
+      "page": 16,
+      "printedNumber": 139,
+      "printedOptionLabels": [
+        "a",
+        "c",
+        "d"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-140",
+      "page": 16,
+      "printedNumber": 140,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-141",
+      "page": 16,
+      "printedNumber": 141,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-142",
+      "page": 17,
+      "printedNumber": 142,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-143",
+      "page": 17,
+      "printedNumber": 143,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-144",
+      "page": 17,
+      "printedNumber": 144,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-145",
+      "page": 17,
+      "printedNumber": 145,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-146",
+      "page": 17,
+      "printedNumber": 146,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-147",
+      "page": 17,
+      "printedNumber": 147,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-148",
+      "page": 17,
+      "printedNumber": 148,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-149",
+      "page": 17,
+      "printedNumber": 149,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-150",
+      "page": 17,
+      "printedNumber": 150,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-151",
+      "page": 18,
+      "printedNumber": 151,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-152",
+      "page": 18,
+      "printedNumber": 152,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-153",
+      "page": 18,
+      "printedNumber": 153,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-154",
+      "page": 18,
+      "printedNumber": 154,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-155",
+      "page": 18,
+      "printedNumber": 155,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-156",
+      "page": 18,
+      "printedNumber": 156,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-157",
+      "page": 18,
+      "printedNumber": 157,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-158",
+      "page": 18,
+      "printedNumber": 158,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-159",
+      "page": 18,
+      "printedNumber": 159,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-160",
+      "page": 19,
+      "printedNumber": 160,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-161",
+      "page": 19,
+      "printedNumber": 161,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-162",
+      "page": 19,
+      "printedNumber": 162,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-163",
+      "page": 19,
+      "printedNumber": 163,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-164",
+      "page": 19,
+      "printedNumber": 164,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-165",
+      "page": 19,
+      "printedNumber": 165,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-166",
+      "page": 19,
+      "printedNumber": 166,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-167",
+      "page": 19,
+      "printedNumber": 167,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-168",
+      "page": 19,
+      "printedNumber": 168,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-169",
+      "page": 20,
+      "printedNumber": 169,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-170",
+      "page": 20,
+      "printedNumber": 170,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-171",
+      "page": 20,
+      "printedNumber": 171,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-172",
+      "page": 20,
+      "printedNumber": 172,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-173",
+      "page": 20,
+      "printedNumber": 173,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-174",
+      "page": 20,
+      "printedNumber": 174,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-175",
+      "page": 20,
+      "printedNumber": 175,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-176",
+      "page": 20,
+      "printedNumber": 176,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-177",
+      "page": 20,
+      "printedNumber": 177,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-178",
+      "page": 21,
+      "printedNumber": 178,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-179",
+      "page": 21,
+      "printedNumber": 179,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-180",
+      "page": 21,
+      "printedNumber": 180,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-181",
+      "page": 21,
+      "printedNumber": 181,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-182",
+      "page": 21,
+      "printedNumber": 182,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-183",
+      "page": 21,
+      "printedNumber": 183,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-184",
+      "page": 21,
+      "printedNumber": 184,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-185",
+      "page": 21,
+      "printedNumber": 185,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-186",
+      "page": 22,
+      "printedNumber": 186,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-187",
+      "page": 22,
+      "printedNumber": 187,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-188",
+      "page": 22,
+      "printedNumber": 188,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-189",
+      "page": 22,
+      "printedNumber": 189,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-190",
+      "page": 22,
+      "printedNumber": 190,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-191",
+      "page": 22,
+      "printedNumber": 191,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "b"
+    },
+    {
+      "id": "patent-2026-192",
+      "page": 23,
+      "printedNumber": 192,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    },
+    {
+      "id": "patent-2026-193",
+      "page": 23,
+      "printedNumber": 193,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-194",
+      "page": 23,
+      "printedNumber": 194,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "c"
+    },
+    {
+      "id": "patent-2026-195",
+      "page": 23,
+      "printedNumber": 195,
+      "printedOptionLabels": [
+        "a",
+        "b",
+        "c"
+      ],
+      "highlightedOptionLabel": "a"
+    }
+  ]
+}

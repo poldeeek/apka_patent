@@ -1,0 +1,7 @@
+import HomePage from "./home-client";
+
+export const dynamic = "force-static";
+
+export default function Page() {
+  return <HomePage />;
+}
