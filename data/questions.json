@@ -5,8 +5,8 @@
     "text": "W Systemie Sygnalizacji Ostrzegawczej na Mazurach 90 błysków na minutę oznacza:",
     "options": [
       "„Niebezpieczeństwo” występowania burzy oraz silnego wiatru",
-      "„Ostrzeżenie” zachowaj ostrożność",
-      "„Uwaga” spodziewane burze i wiatr"
+      "„Ostrzeżenie” – zachowaj ostrożność",
+      "„Uwaga” – spodziewane burze i wiatr"
     ],
     "correctAnswer": 0,
     "explanation": ""
@@ -14,7 +14,7 @@
   {
     "id": "patent-2026-002",
     "category": "Przepisy żeglugowe",
-    "text": "W sytuacji gdy dwa statki o napędzie mechanicznym płyną kursem wprost na siebie, to prawo drogi ma:",
+    "text": "W sytuacji, gdy dwa statki o napędzie mechanicznym płyną kursem wprost na siebie, to prawo drogi ma:",
     "options": [
       "Jacht większy",
       "Jacht wolniejszy",
@@ -26,9 +26,9 @@
   {
     "id": "patent-2026-003",
     "category": "Nawigacja i oznakowanie",
-    "text": "Statek który „stoi na kotwicy” powinien pokazywać:",
+    "text": "Statek, który „stoi na kotwicy”, powinien pokazywać:",
     "options": [
-      "czerwone światło które jest widoczne dookoła widnokręgu",
+      "czerwone światło, które jest widoczne dookoła widnokręgu",
       "czarną kulę",
       "zieloną chorągiewkę"
     ],
@@ -74,10 +74,10 @@
   {
     "id": "patent-2026-007",
     "category": "Przepisy żeglugowe",
-    "text": "W sytuacji gdy jacht motorowy płynie kursem przecinającym się z kajakiem, to pierwszeństwo ma:",
+    "text": "W sytuacji, gdy jacht motorowy płynie kursem przecinającym się z kajakiem, to pierwszeństwo ma:",
     "options": [
       "kajak",
-      "zarówno kajak jak i jacht morowy powinni ustąpić pierwszeństwa",
+      "zarówno kajak, jak i jacht motorowy powinni ustąpić pierwszeństwa",
       "jacht motorowy"
     ],
     "correctAnswer": 0,
@@ -86,7 +86,7 @@
   {
     "id": "patent-2026-008",
     "category": "Przepisy żeglugowe",
-    "text": "Jachty motorowe mogą płynąć kursem obok siebie tylko w przypadku gdy:",
+    "text": "Jachty motorowe mogą płynąć kursem obok siebie tylko w przypadku, gdy:",
     "options": [
       "pozwalają na to lokalne przepisy",
       "gdy umożliwia to szerokość drogi wodnej i nie występuje ryzyko zderzenia",
@@ -98,11 +98,11 @@
   {
     "id": "patent-2026-009",
     "category": "Przepisy żeglugowe",
-    "text": "Czy na drogach wodnych można ciągnąć za statkiem kotwicę i łańcuchy:",
+    "text": "Czy na drogach wodnych można ciągnąć za statkiem kotwicę i łańcuchy?",
     "options": [
       "tak",
       "nie",
-      "nie z wyjątkiem gdy występują trudne warunki atmosferyczne"
+      "nie, z wyjątkiem gdy występują trudne warunki atmosferyczne"
     ],
     "correctAnswer": 1,
     "explanation": ""
@@ -110,7 +110,7 @@
   {
     "id": "patent-2026-010",
     "category": "Manewrowanie i cumowanie",
-    "text": "Podczas śluzowania, cumy zakładamy:",
+    "text": "Podczas śluzowania cumy zakładamy:",
     "options": [
       "na biegowo",
       "wiążąc do górnego i dolnego polera jednocześnie na dowolny węzeł cumowniczy",
@@ -150,7 +150,7 @@
     "options": [
       "małe statki",
       "statki urzędów żeglugi śródlądowej, administracji drogi wodnej, straży pożarnych, Straży Granicznej, Policji, organów celnych i Państwowej Straży Rybackiej",
-      "małe statki których prędkość poruszania się może osiągnąć powyżej 40 km/h"
+      "małe statki, których prędkość poruszania się może osiągnąć powyżej 40 km/h"
     ],
     "correctAnswer": 1,
     "explanation": ""
@@ -194,7 +194,7 @@
   {
     "id": "patent-2026-017",
     "category": "Przepisy żeglugowe",
-    "text": "Z zasady płynąc jednostką z napędem mechanicznym wyprzedzamy inną jednostkę:",
+    "text": "Z zasady, płynąc jednostką z napędem mechanicznym, wyprzedzamy inną jednostkę:",
     "options": [
       "z jej lewej strony",
       "z jej prawej strony",
@@ -206,7 +206,7 @@
   {
     "id": "patent-2026-018",
     "category": "Przepisy żeglugowe",
-    "text": "Biorąc pod uwagę kryterium napędu wskaż prawidłowo kolejność pierwszeństwa na wodzie:",
+    "text": "Biorąc pod uwagę kryterium napędu, wskaż prawidłowo kolejność pierwszeństwa na wodzie:",
     "options": [
       "jachty żaglowe, jachty motorowe, jednostki napędzane siłą ludzkich mięśni",
       "jachty żaglowe, jednostki napędzane siłą ludzkich mięśni, jachty motorowe",
@@ -218,7 +218,7 @@
   {
     "id": "patent-2026-019",
     "category": "Przepisy żeglugowe",
-    "text": "Który statek ma pierwszeństwo ?",
+    "text": "Który statek ma pierwszeństwo?",
     "options": [
       "wypływający z portu ma pierwszeństwo przed wpływającym",
       "wpływający do portu ma pierwszeństwo przed wypływającym",
@@ -233,7 +233,7 @@
     "text": "Chmura Cumulonimbus:",
     "options": [
       "zwiastuje dobrą pogodę",
-      "całkowicie przesłania słońce i daje ciągły długi opad deszczu",
+      "całkowicie przesłania słońce i daje ciągły, długi opad deszczu",
       "zwiastuje silne szkwały i przelotne, ale gwałtowne opady"
     ],
     "correctAnswer": 2,
@@ -242,7 +242,7 @@
   {
     "id": "patent-2026-021",
     "category": "Przepisy żeglugowe",
-    "text": "Który statek ma pierwszeństwo:",
+    "text": "Który statek ma pierwszeństwo?",
     "options": [
       "wpływający do portu ma pierwszeństwo przed wypływającym",
       "wypływający z portu ma pierwszeństwo przed wpływającym",
@@ -254,10 +254,10 @@
   {
     "id": "patent-2026-022",
     "category": "Przepisy żeglugowe",
-    "text": "Dwa jachty o napędzie mechanicznym podczas płynięcia w wąskim kanale płyną na wprost siebie i jest ryzyko zderzenia to:",
+    "text": "Dwa jachty o napędzie mechanicznym podczas płynięcia w wąskim kanale płyną na wprost siebie i jest ryzyko zderzenia, to:",
     "options": [
-      "każdy jacht powinien odbić w swoją prawą stronę by można było się minąć lewą burtą",
-      "pierwszeństwo ma jacht który jest większy",
+      "każdy jacht powinien odbić w swoją prawą stronę, by można było się minąć lewą burtą",
+      "pierwszeństwo ma jacht, który jest większy",
       "pierwszeństwa powinien ustąpić jacht płynący szybciej"
     ],
     "correctAnswer": 0,
@@ -278,7 +278,7 @@
   {
     "id": "patent-2026-024",
     "category": "Przepisy żeglugowe",
-    "text": "Dwa małe jachty motorowe płyną kursami zbieżnymi, pierwszeństwo ma jacht:",
+    "text": "Dwa małe jachty motorowe płyną kursami zbieżnymi; pierwszeństwo ma jacht:",
     "options": [
       "znajdujący się od strony lewej burty",
       "znajdujący się od strony prawej burty",
@@ -316,7 +316,7 @@
     "category": "Przepisy żeglugowe",
     "text": "Zgodnie z przepisami żeglugowymi pora nocna obowiązuje:",
     "options": [
-      "pomiędzy zachodem, a wschodem słońca",
+      "pomiędzy zachodem a wschodem słońca",
       "od 22:00 czasu lokalnego",
       "od momentu zapalenia świateł nawigacyjnych na jachcie"
     ],
@@ -341,8 +341,8 @@
     "text": "Kamizelka ratunkowa:",
     "options": [
       "jest obowiązkowym wyposażeniem łodzi motorowej",
-      "osoby powyżej 18 roku życia umiejące pływać nie muszą jej zakładać",
-      "musi znajdować się na pokładzie w ilości odpowiadającej conajmniej liczbie załogi"
+      "osoby powyżej 18. roku życia umiejące pływać nie muszą jej zakładać",
+      "musi znajdować się na pokładzie w ilości odpowiadającej co najmniej liczbie załogi"
     ],
     "correctAnswer": 2,
     "explanation": ""
@@ -354,7 +354,7 @@
     "options": [
       "uruchomić go na sucho",
       "zalać go wodą i uruchomić",
-      "sprawdzić czy „spodzina” silnika zanurzona jest w wodzie"
+      "sprawdzić, czy „spodzina” silnika zanurzona jest w wodzie"
     ],
     "correctAnswer": 2,
     "explanation": ""
@@ -362,10 +362,10 @@
   {
     "id": "patent-2026-031",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Człowiekowi, który wypadł za burtę należy w pierwszej kolejności:",
+    "text": "Człowiekowi, który wypadł za burtę, należy w pierwszej kolejności:",
     "options": [
       "wysłać na ratunek najlepiej umiejącego pływać członka załogi",
-      "uświadomić, że będzie podjęty manewr człowiek za burtą",
+      "uświadomić, że będzie podjęty manewr „człowiek za burtą”",
       "rzucić koło ratunkowe lub inny środek ratunkowy"
     ],
     "correctAnswer": 2,
@@ -376,7 +376,7 @@
     "category": "Bezpieczeństwo i ratownictwo",
     "text": "Skrót MOPR oznacza:",
     "options": [
-      "Morski Odział Pogotowia Ratunkowego",
+      "Morski Oddział Pogotowia Ratunkowego",
       "Mazurskie Ochotnicze Pogotowie Ratunkowe",
       "Międzynarodowy Ośrodek Pomoc Ratownikom"
     ],
@@ -446,10 +446,10 @@
   {
     "id": "patent-2026-038",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Jaka liczba kamizelek ratunkowych jest wymagana w czasie rejsu:",
+    "text": "Jaka liczba kamizelek ratunkowych jest wymagana w czasie rejsu?",
     "options": [
       "adekwatna do liczby osób znajdujących się na jednostce pływającej w czasie rejsu",
-      "adekwatna do liczby osób na jaką została zarejestrowana jednostka",
+      "adekwatna do liczby osób, na jaką została zarejestrowana jednostka",
       "co najmniej trzy kamizelki ratunkowe na jednostce pływającej w czasie rejsu"
     ],
     "correctAnswer": 0,
@@ -458,7 +458,7 @@
   {
     "id": "patent-2026-039",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Czy w czasie rejsu wymagane jest posiadanie koła ratunkowego?:",
+    "text": "Czy w czasie rejsu wymagane jest posiadanie koła ratunkowego?",
     "options": [
       "nie, jeżeli na pokładzie znajduje się odpowiednia liczba kamizelek ratunkowych",
       "tak, jedno koło bez względu na wielkość i przeznaczenie statku",
@@ -470,7 +470,7 @@
   {
     "id": "patent-2026-040",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Pas ratunkowy, to:",
+    "text": "Pas ratunkowy to:",
     "options": [
       "środek ratunkowy indywidualny",
       "środek ratunkowy asekuracyjny",
@@ -518,11 +518,11 @@
   {
     "id": "patent-2026-044",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Czy na jachcie podczas rejsu można się poruszać po pokładzie?:",
+    "text": "Czy na jachcie podczas rejsu można się poruszać po pokładzie?",
     "options": [
       "nie, gdyż grozi to wypadnięciem za burtę",
       "tak, ale tylko po wyznaczonym obszarze przez kapitana",
-      "tak, najlepiej od strony nawietrznej stosując zasadę ,,jedna ręka dla siebie, druga dla jachtu”"
+      "tak, najlepiej od strony nawietrznej, stosując zasadę „jedna ręka dla siebie, druga dla jachtu”"
     ],
     "correctAnswer": 2,
     "explanation": ""
@@ -530,7 +530,7 @@
   {
     "id": "patent-2026-045",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Skrót MOPR oznacza,:",
+    "text": "Skrót MOPR oznacza:",
     "options": [
       "Morski Oddział Pogotowia Ratunkowego",
       "Mazurskie Ochotnicze Pogotowie Ratunkowe",
@@ -542,7 +542,7 @@
   {
     "id": "patent-2026-046",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Numer ratunkowy na wodzie (dla WOPR i MOPR), to:",
+    "text": "Numer ratunkowy na wodzie (dla WOPR i MOPR) to:",
     "options": [
       "601 100 100",
       "601 601 601",
@@ -554,7 +554,7 @@
   {
     "id": "patent-2026-047",
     "category": "Przepisy żeglugowe",
-    "text": "Czy posiadając uprawnienia sternika motorowodnego można prowadzić skuter wodny:",
+    "text": "Czy posiadając uprawnienia sternika motorowodnego, można prowadzić skuter wodny?",
     "options": [
       "tak",
       "nie",
@@ -578,11 +578,11 @@
   {
     "id": "patent-2026-049",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Sztrandowanie, to:",
+    "text": "Sztrandowanie to:",
     "options": [
       "celowe manewrowanie statkiem, zwiększające atrakcyjność rejsu",
       "zamierzone wejście statku na piaszczysty brzeg lub mieliznę, zapobiegające rozbicie lub utonięcie",
-      "wysyłanie sygnału S.O.S."
+      "wysyłanie sygnału S.O.S"
     ],
     "correctAnswer": 1,
     "explanation": ""
@@ -590,7 +590,7 @@
   {
     "id": "patent-2026-050",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Kto informuje w pierwszej kolejności o osobie znajdującej się za burtą:",
+    "text": "Kto informuje w pierwszej kolejności o osobie znajdującej się za burtą?",
     "options": [
       "ten, kto jako pierwszy zauważy osobę za burtą",
       "tylko i wyłącznie osoba do tego wyznaczona przed rejsem",
@@ -614,7 +614,7 @@
   {
     "id": "patent-2026-052",
     "category": "Budowa jachtu i silnik",
-    "text": "Przekładnia typu ,,Z” może być obracana:",
+    "text": "Przekładnia typu „Z” może być obracana:",
     "options": [
       "tylko w płaszczyźnie pionowej",
       "w płaszczyźnie poziomej i pionowej",
@@ -626,7 +626,7 @@
   {
     "id": "patent-2026-053",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Co to jest pozycja HELP:",
+    "text": "Co to jest pozycja HELP?",
     "options": [
       "pozycja jednoosobowa polegająca na złączeniu i podkurczeniu nóg do brzucha",
       "pozycja jednoosobowa polegająca na wzywaniu pomocy poprzez wymachiwanie rękoma",
@@ -638,7 +638,7 @@
   {
     "id": "patent-2026-054",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Co oznacza skrót BLS?:",
+    "text": "Co oznacza skrót BLS?",
     "options": [
       "Bardzo lekki Statek",
       "Burta Lewo Skręć",
@@ -674,7 +674,7 @@
   {
     "id": "patent-2026-057",
     "category": "Przepisy żeglugowe",
-    "text": "Wpływając do portu musisz ustąpić statkom wychodzącym z portu:",
+    "text": "Wpływając do portu, musisz ustąpić statkom wychodzącym z portu:",
     "options": [
       "tak",
       "nie",
@@ -688,9 +688,9 @@
     "category": "Bezpieczeństwo i ratownictwo",
     "text": "Podczas RKO klatkę piersiową uciskamy w tempie:",
     "options": [
-      "od 120-130 ucisków na minutę",
-      "od 100-120 ucisków na minutę",
-      "od 90-110 ucisków na minutę"
+      "od 120–130 ucisków na minutę",
+      "od 100–120 ucisków na minutę",
+      "od 90–110 ucisków na minutę"
     ],
     "correctAnswer": 1,
     "explanation": ""
@@ -698,7 +698,7 @@
   {
     "id": "patent-2026-059",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Pozycja bezpieczna, to:",
+    "text": "Pozycja bezpieczna to:",
     "options": [
       "pozycja uniemożliwiająca zatonięcie jachtu",
       "pozycja umożliwiająca bezpieczne pływanie",
@@ -710,7 +710,7 @@
   {
     "id": "patent-2026-060",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Hipotermia, to:",
+    "text": "Hipotermia to:",
     "options": [
       "wychłodzenie organizmu",
       "przegrzanie organizmu",
@@ -725,8 +725,8 @@
     "text": "Liczba gaśnic na pokładzie uzależniona jest od:",
     "options": [
       "liczby osób znajdujących się na pokładzie",
-      "od długości statku i mocy silnika orz sprzętu znajdującego się na pokładzie",
-      "od niczego nie jest zależna, na pokładzie musi znajdować się jedna gaśnica proszkowa"
+      "od długości statku i mocy silnika oraz sprzętu znajdującego się na pokładzie",
+      "od niczego nie jest zależna; na pokładzie musi znajdować się jedna gaśnica proszkowa"
     ],
     "correctAnswer": 1,
     "explanation": ""
@@ -746,7 +746,7 @@
   {
     "id": "patent-2026-063",
     "category": "Nawigacja i oznakowanie",
-    "text": "Znak kardynalny wschodni(E):",
+    "text": "Znak kardynalny wschodni (E):",
     "options": [
       "mijamy od północy – stożki ustawione są wierzchołkami do góry, kolor pławy – czarny nad żółtym",
       "mijamy od wschodu – stożki ustawione podstawami do siebie, kolor pławy – czarny z żółtym pasem pośrodku",
@@ -784,9 +784,9 @@
     "category": "Budowa jachtu i silnik",
     "text": "Pompa zęzowa to urządzenie służące do:",
     "options": [
-      "pompowania komór wypornościowych jachtu,",
-      "ułatwienia w sterowaniu jachtem ze sterem hydraulicznym,",
-      "wypompowywania wody zbierającej się w jachcie."
+      "pompowania komór wypornościowych jachtu",
+      "ułatwienia w sterowaniu jachtem ze sterem hydraulicznym",
+      "wypompowywania wody zbierającej się w jachcie"
     ],
     "correctAnswer": 2,
     "explanation": ""
@@ -806,7 +806,7 @@
   {
     "id": "patent-2026-068",
     "category": "Budowa jachtu i silnik",
-    "text": "Pagaje, to:",
+    "text": "Pagaje to:",
     "options": [
       "inaczej wiosła",
       "kule napełnione powietrzem przymocowane do burty statku",
@@ -818,7 +818,7 @@
   {
     "id": "patent-2026-069",
     "category": "Budowa jachtu i silnik",
-    "text": "Gdzie na jachcie powinien być zainstalowany akumulator:",
+    "text": "Gdzie na jachcie powinien być zainstalowany akumulator?",
     "options": [
       "w suchym, wentylowanym miejscu",
       "miejsce nie ma znaczenia",
@@ -830,11 +830,11 @@
   {
     "id": "patent-2026-070",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Jakie informacje należy podać operatorowi numeru alarmowego podczas wzywania pomocy:",
+    "text": "Jakie informacje należy podać operatorowi numeru alarmowego podczas wzywania pomocy?",
     "options": [
       "imiona i nazwiska osób uczestniczących w rejsie, miejsce zdarzenia, godzinę zdarzenia",
       "liczbę osób poszkodowanych, miejsce zdarzenia",
-      "rodzaj jachtu na jakim odbywany był rejs, godzinę zdarzeni, imiona i nazwiska osób uczestniczących w rejsie"
+      "rodzaj jachtu, na jakim odbywany był rejs, godzinę zdarzenia, imiona i nazwiska osób uczestniczących w rejsie"
     ],
     "correctAnswer": 1,
     "explanation": ""
@@ -842,7 +842,7 @@
   {
     "id": "patent-2026-071",
     "category": "Budowa jachtu i silnik",
-    "text": "Gdy uruchomisz silnik, co najpierw sprawdzisz:",
+    "text": "Gdy uruchomisz silnik, co najpierw sprawdzisz?",
     "options": [
       "czy silnik wchodzi na obroty",
       "czy działa chłodzenie silnika",
@@ -854,7 +854,7 @@
   {
     "id": "patent-2026-072",
     "category": "Meteorologia",
-    "text": "W meteorologii jednostką ciśnienia jaką stosujemy to:",
+    "text": "W meteorologii jednostką ciśnienia, jaką stosujemy, to:",
     "options": [
       "hPa",
       "kg",
@@ -880,9 +880,9 @@
     "category": "Budowa jachtu i silnik",
     "text": "Pompa zęzowa to urządzenie służące do:",
     "options": [
-      "pompowania komór wypornościowych jachtu,",
-      "ułatwienia w sterowaniu jachtem ze sterem hydraulicznym,",
-      "wypompowywania wody zbierającej się w jachcie."
+      "pompowania komór wypornościowych jachtu",
+      "ułatwienia w sterowaniu jachtem ze sterem hydraulicznym",
+      "wypompowywania wody zbierającej się w jachcie"
     ],
     "correctAnswer": 2,
     "explanation": ""
@@ -890,7 +890,7 @@
   {
     "id": "patent-2026-075",
     "category": "Budowa jachtu i silnik",
-    "text": "Jakie proporcje oleju silnikowego i benzyny używa się w silnikach 2-suwowych:",
+    "text": "Jakie proporcje oleju silnikowego i benzyny używa się w silnikach 2-suwowych?",
     "options": [
       "nie ma to znaczenia",
       "1:40",
@@ -926,7 +926,7 @@
   {
     "id": "patent-2026-078",
     "category": "Budowa jachtu i silnik",
-    "text": "Do jakiej pojemności powinniśmy napełniać zewnętrzne zbiorniki paliwa:",
+    "text": "Do jakiej pojemności powinniśmy napełniać zewnętrzne zbiorniki paliwa?",
     "options": [
       "do 100%",
       "max do 90%",
@@ -1046,7 +1046,7 @@
   {
     "id": "patent-2026-088",
     "category": "Budowa jachtu i silnik",
-    "text": "Czy silnik dwusuwowy posiada miskę olejową:",
+    "text": "Czy silnik dwusuwowy posiada miskę olejową?",
     "options": [
       "tak",
       "nie",
@@ -1072,9 +1072,9 @@
     "category": "Meteorologia",
     "text": "Szkwał to nic innego jak:",
     "options": [
-      "uderzenie wiatru spowodowane silnym wirem powietrznym o poziomej osi.",
-      "wiatr lokalny, wiejący w cyklu dobowym, wskutek różnicy temperatur między morzem a lądem.",
-      "gwałtownie wirująca kolumna powietrza, będąca jednocześnie w kontakcie z powierzchnią ziemi i podstawą cumulonimbusa."
+      "uderzenie wiatru spowodowane silnym wirem powietrznym o poziomej osi",
+      "wiatr lokalny, wiejący w cyklu dobowym wskutek różnicy temperatur między morzem a lądem",
+      "gwałtownie wirująca kolumna powietrza, będąca jednocześnie w kontakcie z powierzchnią ziemi i podstawą cumulonimbusa"
     ],
     "correctAnswer": 0,
     "explanation": ""
@@ -1106,11 +1106,11 @@
   {
     "id": "patent-2026-093",
     "category": "Meteorologia",
-    "text": "Kiedy w otoczeniu widzimy czysty i jasny widnokrąg to wiemy, że zapowiada się nam ładna i bezdeszczowa pogoda której mogą towarzyszyć?",
+    "text": "Kiedy w otoczeniu widzimy czysty i jasny widnokrąg, to wiemy, że zapowiada się nam ładna i bezdeszczowa pogoda, której mogą towarzyszyć:",
     "options": [
-      "czerwony zachód słońca.",
-      "nagła zmiana kierunku wiatru.",
-      "warstwa ciemnych chmur nad horyzontem towarzysząca wschodowi słońca."
+      "czerwony zachód słońca",
+      "nagła zmiana kierunku wiatru",
+      "warstwa ciemnych chmur nad horyzontem towarzysząca wschodowi słońca"
     ],
     "correctAnswer": 0,
     "explanation": ""
@@ -1118,7 +1118,7 @@
   {
     "id": "patent-2026-094",
     "category": "Meteorologia",
-    "text": "W meteorologii jednostką ciśnienia jaką stosujemy to:",
+    "text": "W meteorologii jednostką ciśnienia, jaką stosujemy, to:",
     "options": [
       "hPa",
       "kg",
@@ -1130,10 +1130,10 @@
   {
     "id": "patent-2026-095",
     "category": "Budowa jachtu i silnik",
-    "text": "Kiedy powinno się wymienić anodę:",
+    "text": "Kiedy powinno się wymienić anodę?",
     "options": [
       "raz na 2 lata",
-      "kiedy jest zużyta w 50%-70%",
+      "kiedy jest zużyta w 50–70%",
       "kiedy jest zużyta w 100%"
     ],
     "correctAnswer": 1,
@@ -1142,7 +1142,7 @@
   {
     "id": "patent-2026-096",
     "category": "Budowa jachtu i silnik",
-    "text": "Achterpik lub inaczej afterpik znajduje się:",
+    "text": "Achterpik, lub inaczej afterpik, znajduje się:",
     "options": [
       "na śródokręciu",
       "na dziobie jachtu",
@@ -1180,9 +1180,9 @@
     "category": "Meteorologia",
     "text": "Szkwał to nic innego jak:",
     "options": [
-      "uderzenie wiatru spowodowane silnym wirem powietrznym o poziomej osi.",
-      "wiatr lokalny, wiejący w cyklu dobowym, wskutek różnicy temperatur między morzem a lądem.",
-      "gwałtownie wirująca kolumna powietrza, będąca jednocześnie w kontakcie z powierzchnią ziemi i podstawą cumulonimbusa."
+      "uderzenie wiatru spowodowane silnym wirem powietrznym o poziomej osi",
+      "wiatr lokalny, wiejący w cyklu dobowym wskutek różnicy temperatur między morzem a lądem",
+      "gwałtownie wirująca kolumna powietrza, będąca jednocześnie w kontakcie z powierzchnią ziemi i podstawą cumulonimbusa"
     ],
     "correctAnswer": 0,
     "explanation": ""
@@ -1202,11 +1202,11 @@
   {
     "id": "patent-2026-101",
     "category": "Meteorologia",
-    "text": "Kiedy pogoda ma się nam zmienić na wietrzną i pochmurną to objawami tego będzie?",
+    "text": "Kiedy pogoda ma się nam zmienić na wietrzną i pochmurną, to objawami tego będzie:",
     "options": [
-      "wiatr nasilający się koło południa i słabnący wieczorem.",
-      "utrzymywanie się lub wzrost ciśnienia.",
-      "spadek ciśnienia."
+      "wiatr nasilający się koło południa i słabnący wieczorem",
+      "utrzymywanie się lub wzrost ciśnienia",
+      "spadek ciśnienia"
     ],
     "correctAnswer": 2,
     "explanation": ""
@@ -1226,11 +1226,11 @@
   {
     "id": "patent-2026-103",
     "category": "Meteorologia",
-    "text": "Kiedy w otoczeniu widzimy czysty i jasny widnokrąg to wiemy, że zapowiada się nam ładna i bezdeszczowa pogoda której mogą towarzyszyć?",
+    "text": "Kiedy w otoczeniu widzimy czysty i jasny widnokrąg, to wiemy, że zapowiada się nam ładna i bezdeszczowa pogoda, której mogą towarzyszyć:",
     "options": [
-      "czerwony zachód słońca.",
-      "nagła zmiana kierunku wiatru.",
-      "warstwa ciemnych chmur nad horyzontem towarzysząca wschodowi słońca."
+      "czerwony zachód słońca",
+      "nagła zmiana kierunku wiatru",
+      "warstwa ciemnych chmur nad horyzontem towarzysząca wschodowi słońca"
     ],
     "correctAnswer": 0,
     "explanation": ""
@@ -1238,7 +1238,7 @@
   {
     "id": "patent-2026-104",
     "category": "Meteorologia",
-    "text": "Achterpik lub inaczej afterpik znajduje się:",
+    "text": "Achterpik, lub inaczej afterpik, znajduje się:",
     "options": [
       "na śródokręciu",
       "na dziobie jachtu",
@@ -1334,7 +1334,7 @@
   {
     "id": "patent-2026-112",
     "category": "Nawigacja i oznakowanie",
-    "text": "Co sygnalizuje jeden krótki dźwięk:",
+    "text": "Co sygnalizuje jeden krótki dźwięk?",
     "options": [
       "daję bieg wstecz",
       "zmieniam kurs w prawo",
@@ -1346,11 +1346,11 @@
   {
     "id": "patent-2026-113",
     "category": "Nawigacja i oznakowanie",
-    "text": "Światło koloru czerwonego nad światłem białym, widziane oprócz innych świateł nawigacyjnych oznacza:",
+    "text": "Światło koloru czerwonego nad światłem białym, widziane oprócz innych świateł nawigacyjnych, oznacza:",
     "options": [
       "statek, który utracił zdolność manewrową",
       "statek zajęty połowem",
-      "statek żaglowy o długości do 7m"
+      "statek żaglowy o długości do 7 m"
     ],
     "correctAnswer": 0,
     "explanation": ""
@@ -1418,7 +1418,7 @@
   {
     "id": "patent-2026-118",
     "category": "Nawigacja i oznakowanie",
-    "text": "Co sygnalizuje jeden krótki dźwięk:",
+    "text": "Co sygnalizuje jeden krótki dźwięk?",
     "options": [
       "daję bieg wstecz",
       "zmieniam kurs w prawo",
@@ -1454,11 +1454,11 @@
   {
     "id": "patent-2026-121",
     "category": "Nawigacja i oznakowanie",
-    "text": "Światło koloru czerwonego nad światłem białym, widziane oprócz innych świateł nawigacyjnych oznacza:",
+    "text": "Światło koloru czerwonego nad światłem białym, widziane oprócz innych świateł nawigacyjnych, oznacza:",
     "options": [
       "statek zajęty połowem ryb (trałowanie)",
       "utrata panowania nad łodzią",
-      "statek żaglowy o długości do 7m"
+      "statek żaglowy o długości do 7 m"
     ],
     "correctAnswer": 0,
     "explanation": ""
@@ -1466,10 +1466,10 @@
   {
     "id": "patent-2026-122",
     "category": "Nawigacja i oznakowanie",
-    "text": "Znak kardynalny wschodni(E):",
+    "text": "Znak kardynalny wschodni (E):",
     "options": [
-      "mijamy od północy – stożki ustawione są wierzchołkami do góry, kolor pławy – czarny nad żółtym.",
-      "mijamy od wschodu – stożki ustawione podstawami do siebie, kolor pławy – czarny z żółtym pasem pośrodku.",
+      "mijamy od północy – stożki ustawione są wierzchołkami do góry, kolor pławy – czarny nad żółtym",
+      "mijamy od wschodu – stożki ustawione podstawami do siebie, kolor pławy – czarny z żółtym pasem pośrodku",
       "mijamy od zachodu – stożki ustawione wierzchołkami do siebie, kolor pławy – żółty z czarnym pasem pośrodku"
     ],
     "correctAnswer": 1,
@@ -1478,11 +1478,11 @@
   {
     "id": "patent-2026-123",
     "category": "Nawigacja i oznakowanie",
-    "text": "Znak kardynalny który ma stożki ustawione podstawami do siebie a kolor pławy – czarny z żółtym pasem pośrodku to :",
+    "text": "Znak kardynalny, który ma stożki ustawione podstawami do siebie, a kolor pławy – czarny z żółtym pasem pośrodku, to:",
     "options": [
-      "wchodni znak kardynalny",
+      "wschodni znak kardynalny",
       "zachodni znak kardynalny",
-      "połnocny znak kardynalny"
+      "północny znak kardynalny"
     ],
     "correctAnswer": 0,
     "explanation": ""
@@ -1493,8 +1493,8 @@
     "text": "System Sygnalizacji Ostrzegawczej 40 błysków na minutę oznacza:",
     "options": [
       "„Niebezpieczeństwo” występowania burzy oraz silnego wiatru",
-      "„Uwaga” spodziewane burze i wiatr",
-      "„Ostrzeżenie” zachowaj ostrożność"
+      "„Uwaga” – spodziewane burze i wiatr",
+      "„Ostrzeżenie” – zachowaj ostrożność"
     ],
     "correctAnswer": 1,
     "explanation": ""
@@ -1514,7 +1514,7 @@
   {
     "id": "patent-2026-126",
     "category": "Przepisy żeglugowe",
-    "text": "Kurs statku żaglowego i statku o napędzie mechanicznym przecinają się, pierwszeństwo ma?:",
+    "text": "Kurs statku żaglowego i statku o napędzie mechanicznym przecinają się; pierwszeństwo ma:",
     "options": [
       "statek żaglowy",
       "statek o napędzie mechanicznym",
@@ -1526,7 +1526,7 @@
   {
     "id": "patent-2026-127",
     "category": "Przepisy żeglugowe",
-    "text": "Kurs statku żaglowego i statku o napędzie mechanicznym przecinają się, pierwszeństwo ma?:",
+    "text": "Kurs statku żaglowego i statku o napędzie mechanicznym przecinają się; pierwszeństwo ma:",
     "options": [
       "statek żaglowy",
       "statek o napędzie mechanicznym",
@@ -1574,7 +1574,7 @@
   {
     "id": "patent-2026-131",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Co to jest hipotermia:",
+    "text": "Co to jest hipotermia?",
     "options": [
       "wychłodzenie organizmu",
       "przegrzanie organizmu",
@@ -1646,7 +1646,7 @@
   {
     "id": "patent-2026-137",
     "category": "Budowa jachtu i silnik",
-    "text": "Najniższa przestrzeń kadłuba, gdzie zbiera się woda to:",
+    "text": "Najniższa przestrzeń kadłuba, gdzie zbiera się woda, to:",
     "options": [
       "zęza",
       "gródź",
@@ -1658,10 +1658,10 @@
   {
     "id": "patent-2026-138",
     "category": "Nawigacja i oznakowanie",
-    "text": "Północny znak kardynalny ma kolor :",
+    "text": "Północny znak kardynalny ma kolor:",
     "options": [
-      "zółty czarny żółty",
-      "zółty nad czarnym",
+      "żółty, czarny, żółty",
+      "żółty nad czarnym",
       "czarny nad żółtym"
     ],
     "correctAnswer": 2,
@@ -1670,7 +1670,7 @@
   {
     "id": "patent-2026-139",
     "category": "Nawigacja i oznakowanie",
-    "text": "Znaki kardynalne na akwenach wodnych dotyczą",
+    "text": "Znaki kardynalne na akwenach wodnych dotyczą:",
     "options": [
       "przeszkód na wodzie",
       "wyznaczenia szlaków żeglowych",
@@ -1709,8 +1709,8 @@
     "text": "Czy skuter wodny podlega rejestracji?",
     "options": [
       "tak, ale tylko gdy został sprowadzony spoza UE",
-      "nie bo jest tylko do zabawy",
-      "tak podlega rejestracji tak samo jak motorówka czy żaglówka"
+      "nie, bo jest tylko do zabawy",
+      "tak, podlega rejestracji tak samo jak motorówka czy żaglówka"
     ],
     "correctAnswer": 2,
     "explanation": ""
@@ -1730,7 +1730,7 @@
   {
     "id": "patent-2026-144",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Która grupa sygnałów to sygnał nadawania S.O.S:",
+    "text": "Która grupa sygnałów to sygnał nadawania S.O.S?",
     "options": [
       "•••−−−•••",
       "•••− −•••",
@@ -1745,7 +1745,7 @@
     "text": "Akumulatory powinny być mocowane na jachcie:",
     "options": [
       "nie ma to znaczenia",
-      "w bezpiecznym wentylowanym miejscu",
+      "w bezpiecznym, wentylowanym miejscu",
       "w kambuzie"
     ],
     "correctAnswer": 1,
@@ -1766,10 +1766,10 @@
   {
     "id": "patent-2026-147",
     "category": "Przepisy żeglugowe",
-    "text": "Czy skuterem wodnym można holować narciarza ?",
+    "text": "Czy skuterem wodnym można holować narciarza?",
     "options": [
       "tak, ale wymagana jest licencja na holowanie",
-      "tak bez dodatkowych uprawnień",
+      "tak, bez dodatkowych uprawnień",
       "jest to zabronione"
     ],
     "correctAnswer": 0,
@@ -1802,7 +1802,7 @@
   {
     "id": "patent-2026-150",
     "category": "Nawigacja i oznakowanie",
-    "text": "Znak kardynalny który ma stożki ustawione podstawami do siebie, a kolor pławy – czarny z żółtym pasem pośrodku to:",
+    "text": "Znak kardynalny, który ma stożki ustawione podstawami do siebie, a kolor pławy – czarny z żółtym pasem pośrodku, to:",
     "options": [
       "wschodni znak kardynalny",
       "zachodni znak kardynalny",
@@ -1850,7 +1850,7 @@
   {
     "id": "patent-2026-154",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "W warunkach ograniczonej widoczności płynąc szlakiem żeglownym powinniśmy:",
+    "text": "W warunkach ograniczonej widoczności, płynąc szlakiem żeglownym, powinniśmy:",
     "options": [
       "kierować się na północ",
       "zatrzymać jacht i wyrzucić kotwice",
@@ -1864,9 +1864,9 @@
     "category": "Nawigacja i oznakowanie",
     "text": "1 mila morska to:",
     "options": [
-      "1000m",
-      "1852m",
-      "185m"
+      "1000 m",
+      "1852 m",
+      "185 m"
     ],
     "correctAnswer": 1,
     "explanation": ""
@@ -1936,9 +1936,9 @@
     "category": "Budowa jachtu i silnik",
     "text": "Co to jest pawęż?",
     "options": [
-      "najniższa część jachtu w której zbiera się woda",
+      "najniższa część jachtu, w której zbiera się woda",
       "wzmocnienie części dziobowej",
-      "część rufowa do której mocowany jest silnik"
+      "część rufowa, do której mocowany jest silnik"
     ],
     "correctAnswer": 2,
     "explanation": ""
@@ -1946,7 +1946,7 @@
   {
     "id": "patent-2026-162",
     "category": "Budowa jachtu i silnik",
-    "text": "Po uruchomieniu silnika w pierwszej kolejności należy sprawdzić?",
+    "text": "Po uruchomieniu silnika w pierwszej kolejności należy sprawdzić:",
     "options": [
       "czy działa chłodzenie silnika",
       "czy działa bieg wsteczny",
@@ -1982,7 +1982,7 @@
   {
     "id": "patent-2026-165",
     "category": "Przepisy żeglugowe",
-    "text": "W sytuacji gdy dwa statki o napędzie mechanicznym płyną kursem wprost na siebie, to prawo drogi ma:",
+    "text": "W sytuacji, gdy dwa statki o napędzie mechanicznym płyną kursem wprost na siebie, to prawo drogi ma:",
     "options": [
       "Jacht większy",
       "Jacht wolniejszy",
@@ -2020,9 +2020,9 @@
     "category": "Bezpieczeństwo i ratownictwo",
     "text": "Z hipotermią mamy do czynienia, gdy temperatura ciała spada poniżej:",
     "options": [
-      "36°C",
-      "35°C",
-      "34°C"
+      "36 °C",
+      "35 °C",
+      "34 °C"
     ],
     "correctAnswer": 1,
     "explanation": ""
@@ -2030,9 +2030,9 @@
   {
     "id": "patent-2026-169",
     "category": "Nawigacja i oznakowanie",
-    "text": "Statek który „stoi na kotwicy” powinien pokazywać:",
+    "text": "Statek, który „stoi na kotwicy”, powinien pokazywać:",
     "options": [
-      "czerwone światło które jest widoczne dookoła widnokręgu",
+      "czerwone światło, które jest widoczne dookoła widnokręgu",
       "czarną kulę",
       "zieloną chorągiewkę"
     ],
@@ -2044,9 +2044,9 @@
     "category": "Bezpieczeństwo i ratownictwo",
     "text": "Pozycja CLINCH:",
     "options": [
-      "grupowe ułożenie, w którym członkowie załogi obejmują się ramionami oraz splatają nogi, w środku powinna znajdować się osoba najbardziej wychłodzona",
+      "grupowe ułożenie, w którym członkowie załogi obejmują się ramionami oraz splatają nogi; w środku powinna znajdować się osoba najbardziej wychłodzona",
       "grupowe ułożenie, które zapobiega wychłodzeniu",
-      "grupowe ułożenie, w którym członkowie obejmują się rękoma, w środku powinna znajdować się osoba nie umiejąca pływać"
+      "grupowe ułożenie, w którym członkowie obejmują się rękoma; w środku powinna znajdować się osoba nie umiejąca pływać"
     ],
     "correctAnswer": 0,
     "explanation": ""
@@ -2054,7 +2054,7 @@
   {
     "id": "patent-2026-171",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Co oznacza skrót BLS?:",
+    "text": "Co oznacza skrót BLS?",
     "options": [
       "Bardzo lekki Statek",
       "Burta Lewo Skręć",
@@ -2080,9 +2080,9 @@
     "category": "Bezpieczeństwo i ratownictwo",
     "text": "Podczas RKO klatkę piersiową uciskamy w tempie:",
     "options": [
-      "od 120-130 ucisków na minutę",
-      "od 100-120 ucisków na minutę",
-      "od 90-110 ucisków na minutę"
+      "od 120–130 ucisków na minutę",
+      "od 100–120 ucisków na minutę",
+      "od 90–110 ucisków na minutę"
     ],
     "correctAnswer": 1,
     "explanation": ""
@@ -2090,7 +2090,7 @@
   {
     "id": "patent-2026-174",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Pozycja bezpieczna, to:",
+    "text": "Pozycja bezpieczna to:",
     "options": [
       "pozycja uniemożliwiająca zatonięcie jachtu",
       "pozycja umożliwiająca bezpieczne pływanie",
@@ -2102,7 +2102,7 @@
   {
     "id": "patent-2026-175",
     "category": "Budowa jachtu i silnik",
-    "text": "Pagaje, to:",
+    "text": "Pagaje to:",
     "options": [
       "inaczej wiosła",
       "kule napełnione powietrzem przymocowane do burty statku",
@@ -2114,11 +2114,11 @@
   {
     "id": "patent-2026-176",
     "category": "Bezpieczeństwo i ratownictwo",
-    "text": "Jakie informacje należy podać operatorowi numeru alarmowego podczas wzywania pomocy:",
+    "text": "Jakie informacje należy podać operatorowi numeru alarmowego podczas wzywania pomocy?",
     "options": [
       "imiona i nazwiska osób uczestniczących w rejsie, miejsce zdarzenia, godzinę zdarzenia",
       "liczbę osób poszkodowanych, miejsce zdarzenia",
-      "rodzaj jachtu na jakim odbywany był rejs, godzinę zdarzenia, imiona i nazwiska osób uczestniczących w rejsie"
+      "rodzaj jachtu, na jakim odbywany był rejs, godzinę zdarzenia, imiona i nazwiska osób uczestniczących w rejsie"
     ],
     "correctAnswer": 1,
     "explanation": ""
@@ -2186,7 +2186,7 @@
   {
     "id": "patent-2026-182",
     "category": "Budowa jachtu i silnik",
-    "text": "Czy silnik dwusuwowy posiada miskę olejową:",
+    "text": "Czy silnik dwusuwowy posiada miskę olejową?",
     "options": [
       "tak",
       "nie",
@@ -2198,7 +2198,7 @@
   {
     "id": "patent-2026-183",
     "category": "Budowa jachtu i silnik",
-    "text": "Jakie proporcje oleju silnikowego i benzyny używa się w silnikach 2-suwowych:",
+    "text": "Jakie proporcje oleju silnikowego i benzyny używa się w silnikach 2-suwowych?",
     "options": [
       "nie ma to znaczenia",
       "1:40",
@@ -2238,10 +2238,10 @@
   {
     "id": "patent-2026-186",
     "category": "Nawigacja i oznakowanie",
-    "text": "Znak poniżej oznacza :",
+    "text": "Znak poniżej oznacza:",
     "options": [
       "nakaz przejścia po czerwonej stronie znaku",
-      "zakaz przejścia poza skrajnią określoną tablicami ( pod mostem, przez jaz)",
+      "zakaz przejścia poza skrajnią określoną tablicami (pod mostem, przez jaz)",
       "zmianę szerokości przejścia"
     ],
     "correctAnswer": 1,
@@ -2254,7 +2254,7 @@
   {
     "id": "patent-2026-187",
     "category": "Nawigacja i oznakowanie",
-    "text": "Co oznacza poniższy znak?:",
+    "text": "Co oznacza poniższy znak?",
     "options": [
       "zakaz pływania z dużą prędkością",
       "zakaz ruchu statków o napędzie mechanicznym",
@@ -2312,7 +2312,7 @@
     "explanation": "",
     "image": {
       "src": "/questions/patent-2026-190.png",
-      "alt": "Dwie biało-zielone tablice w kształcie rombów, z zaznaczonym obszarem pomiędzy nimi."
+      "alt": "Dwie biało-zielone tablice w kształcie rombów z zaznaczonym obszarem pomiędzy nimi."
     }
   },
   {
