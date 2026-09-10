@@ -22,11 +22,13 @@ Do instalacji PWA na telefonie potrzebny jest adres HTTPS. Service worker jest a
 
 ## Pytania z PDF
 
-Obecna baza pochodzi z dostarczonego pliku **„Baza pytań 2026 .pdf”** (23 strony). Zawiera **195 pytań** do patentu motorowodnego oraz **12 oryginalnych ilustracji przy 14 pytaniach**. Klucz odpowiedzi został odczytany z zielonych zaznaczeń w PDF. Treść, kolejność odpowiedzi i powtórzenia zachowano zgodnie ze źródłem; nie przeprowadzano merytorycznej korekty klucza. PDF nie zawiera wyjaśnień, więc pole `explanation` pozostaje puste.
+Obecna baza pochodzi z dostarczonego pliku **„Baza pytań 2026 .pdf”** (23 strony). Po usunięciu 55 powtórzeń i parafraz zawiera **140 pytań** do patentu motorowodnego oraz **12 oryginalnych ilustracji przy 14 pytaniach**. Klucz odpowiedzi został odczytany z zielonych zaznaczeń w PDF. Treść zachowanych pytań i kolejność odpowiedzi zachowano zgodnie ze źródłem; nie przeprowadzano merytorycznej korekty klucza. PDF nie zawiera wyjaśnień, więc pole `explanation` pozostaje puste.
 
 Dane znajdują się w `data/questions.json`, a ilustracje w `public/questions/patent-2026-*.png`. Obrazy wyodrębniono bezpośrednio z zasobów PDF, bez zmiany ich pikseli; dzięki temu schemat lin ze strony 13 jest kompletny, mimo że w dokumencie wystaje poza stronę. Pytania 115–117 korzystają ze wspólnego schematu.
 
-`data/questions-source.json` zawiera sumę SHA-256 źródła i mapowanie każdego pytania na stronę, wydrukowany numer i zaznaczoną odpowiedź. W pozycji 74 PDF powtarza numer 44; identyfikator aplikacji to `patent-2026-074`. W pytaniach 111 i 139 etykiety źródłowe to A/C/D — aplikacja wyświetla A/B/C, zachowując kolejność i poprawną odpowiedź według zaznaczenia. Kategorie są pogrupowaniem tematycznym dodanym podczas importu.
+`data/question-deduplication.json` dokumentuje 55 usuniętych powtórzeń i ich zachowane odpowiedniki. Reguły uwzględniają ilustracje i ręcznie sprawdzone parafrazy; ponowny import stosuje te same wykluczenia. Pytania o różne znaki, wartości czy rodzaje chmur pozostają osobne.
+
+`data/questions-source.json` zachowuje pełny audyt wszystkich 195 pozycji PDF i zawiera sumę SHA-256 źródła i mapowanie każdego pytania na stronę, wydrukowany numer i zaznaczoną odpowiedź. W pozycji 74 PDF powtarza numer 44; identyfikator aplikacji to `patent-2026-074`. W pytaniach 111 i 139 etykiety źródłowe to A/C/D — aplikacja wyświetla A/B/C, zachowując kolejność i poprawną odpowiedź według zaznaczenia. Kategorie są pogrupowaniem tematycznym dodanym podczas importu.
 
 Każde pytanie ma format:
 
@@ -51,4 +53,4 @@ Ponowny import: `python3 scripts/import-questions-pdf.py "/ścieżka/do/Baza pyt
 
 `node scripts/test-quiz.mjs` sprawdza bazę, pliki obrazów i przebieg egzaminów. Generator `scripts/generate-demo.py` odmawia nadpisania właściwej bazy.
 
-Losowanie korzysta z Fisher–Yates, bez powtórek w obrębie testu. W trybie nauki odpowiedź jest ujawniana dopiero po jej zatwierdzeniu. W trybie egzaminu ujawniana jest na końcu. Ustawienia są zapisywane lokalnie na urządzeniu; trwający test nie jest zapisywany, a aplikacja ostrzega przed jego przerwaniem lub odświeżeniem.
+Walidacja odrzuca powtórzenia ID, znormalizowanej treści wraz z ilustracją oraz rozpoznanych parafraz. Losowanie dodatkowo usuwa takie powtórzenia przed tasowaniem Fisher–Yates i sprawdza, czy wystarczy unikalnych pytań. Zmiana wielkości liter, interpunkcji lub odstępów nie omija zabezpieczenia. Nowe parafrazy wymagają przeglądu i dopisania reguły; nie stosujemy automatycznego podobieństwa, które mogłoby mylić np. różne stopnie Beauforta. W trybie nauki odpowiedź jest ujawniana dopiero po jej zatwierdzeniu. W trybie egzaminu ujawniana jest na końcu. Ustawienia są zapisywane lokalnie na urządzeniu; trwający test nie jest zapisywany, a aplikacja ostrzega przed jego przerwaniem lub odświeżeniem.

@@ -1,0 +1,445 @@
+{
+  "description": "Reviewed duplicate and paraphrased questions. Keep original IDs and source audit; reimports must apply these exclusions. Similar wording with a different image or tested fact is not a duplicate. Answers of retained records are unchanged from the PDF.",
+  "duplicates": [
+    {
+      "id": "patent-2026-021",
+      "duplicateOf": "patent-2026-019",
+      "text": "Który statek ma pierwszeństwo?",
+      "imageSrc": "",
+      "canonicalText": "Który statek ma pierwszeństwo?",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-022",
+      "duplicateOf": "patent-2026-002",
+      "text": "Dwa jachty o napędzie mechanicznym podczas płynięcia w wąskim kanale płyną na wprost siebie i jest ryzyko zderzenia, to:",
+      "imageSrc": "",
+      "canonicalText": "W sytuacji, gdy dwa statki o napędzie mechanicznym płyną kursem wprost na siebie, to prawo drogi ma:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-027",
+      "duplicateOf": "patent-2026-004",
+      "text": "Zgodnie z przepisami żeglugowymi pora nocna obowiązuje:",
+      "imageSrc": "",
+      "canonicalText": "Pora nocna obowiązuje:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-038",
+      "duplicateOf": "patent-2026-029",
+      "text": "Jaka liczba kamizelek ratunkowych jest wymagana w czasie rejsu?",
+      "imageSrc": "",
+      "canonicalText": "Kamizelka ratunkowa:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-045",
+      "duplicateOf": "patent-2026-032",
+      "text": "Skrót MOPR oznacza:",
+      "imageSrc": "",
+      "canonicalText": "Skrót MOPR oznacza:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-057",
+      "duplicateOf": "patent-2026-019",
+      "text": "Wpływając do portu, musisz ustąpić statkom wychodzącym z portu:",
+      "imageSrc": "",
+      "canonicalText": "Który statek ma pierwszeństwo?",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-074",
+      "duplicateOf": "patent-2026-066",
+      "text": "Pompa zęzowa to urządzenie służące do:",
+      "imageSrc": "",
+      "canonicalText": "Pompa zęzowa to urządzenie służące do:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-077",
+      "duplicateOf": "patent-2026-067",
+      "text": "Pawęż to:",
+      "imageSrc": "",
+      "canonicalText": "Pawęż to:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-082",
+      "duplicateOf": "patent-2026-051",
+      "text": "Zrywka w sytuacji awaryjnej:",
+      "imageSrc": "",
+      "canonicalText": "Zrywka w sytuacji awaryjnej:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-087",
+      "duplicateOf": "patent-2026-011",
+      "text": "Główne parametry charakteryzujące śrubę to:",
+      "imageSrc": "",
+      "canonicalText": "Główne parametry charakteryzujące śrubę napędową łodzi to:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-094",
+      "duplicateOf": "patent-2026-072",
+      "text": "W meteorologii jednostką ciśnienia, jaką stosujemy, to:",
+      "imageSrc": "",
+      "canonicalText": "W meteorologii jednostką ciśnienia, jaką stosujemy, to:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-098",
+      "duplicateOf": "patent-2026-089",
+      "text": "Bryza nocna wywołana jest:",
+      "imageSrc": "",
+      "canonicalText": "Bryza nocna wywołana jest:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-099",
+      "duplicateOf": "patent-2026-090",
+      "text": "Szkwał to nic innego jak:",
+      "imageSrc": "",
+      "canonicalText": "Szkwał to nic innego jak:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-100",
+      "duplicateOf": "patent-2026-092",
+      "text": "Najprostszym przyrządem do określania kierunku wiatru jest:",
+      "imageSrc": "",
+      "canonicalText": "Najprostszym przyrządem do określania kierunku wiatru jest:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-103",
+      "duplicateOf": "patent-2026-093",
+      "text": "Kiedy w otoczeniu widzimy czysty i jasny widnokrąg, to wiemy, że zapowiada się nam ładna i bezdeszczowa pogoda, której mogą towarzyszyć:",
+      "imageSrc": "",
+      "canonicalText": "Kiedy w otoczeniu widzimy czysty i jasny widnokrąg, to wiemy, że zapowiada się nam ładna i bezdeszczowa pogoda, której mogą towarzyszyć:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-104",
+      "duplicateOf": "patent-2026-096",
+      "text": "Achterpik, lub inaczej afterpik, znajduje się:",
+      "imageSrc": "",
+      "canonicalText": "Achterpik, lub inaczej afterpik, znajduje się:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-107",
+      "duplicateOf": "patent-2026-097",
+      "text": "Pod względem występowania opadów chmurę cirrus charakteryzuje:",
+      "imageSrc": "",
+      "canonicalText": "Pod względem występowania opadów chmurę cirrus charakteryzuje:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-108",
+      "duplicateOf": "patent-2026-102",
+      "text": "Pod względem występowania opadów chmurę Nimbostratus charakteryzuje:",
+      "imageSrc": "",
+      "canonicalText": "Pod względem występowania opadów chmurę Nimbostratus charakteryzuje:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-109",
+      "duplicateOf": "patent-2026-105",
+      "text": "Pod względem występowania opadów chmurę stratus charakteryzuje:",
+      "imageSrc": "",
+      "canonicalText": "Pod względem występowania opadów chmurę stratus charakteryzuje:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-110",
+      "duplicateOf": "patent-2026-106",
+      "text": "Przednia część łodzi to inaczej:",
+      "imageSrc": "",
+      "canonicalText": "Przednia część łodzi to inaczej:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-118",
+      "duplicateOf": "patent-2026-112",
+      "text": "Co sygnalizuje jeden krótki dźwięk?",
+      "imageSrc": "",
+      "canonicalText": "Co sygnalizuje jeden krótki dźwięk?",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-119",
+      "duplicateOf": "patent-2026-026",
+      "text": "Północny znak kardynalny należy omijać:",
+      "imageSrc": "",
+      "canonicalText": "Znak kardynalny północny (N) mijamy od:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-120",
+      "duplicateOf": "patent-2026-005",
+      "text": "W dźwiękowej sygnalizacji statków trzy krótkie dźwięki oznaczają:",
+      "imageSrc": "",
+      "canonicalText": "W dźwiękowej sygnalizacji statków trzy krótkie dźwięki oznaczają:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-121",
+      "duplicateOf": "patent-2026-113",
+      "text": "Światło koloru czerwonego nad światłem białym, widziane oprócz innych świateł nawigacyjnych, oznacza:",
+      "imageSrc": "",
+      "canonicalText": "Światło koloru czerwonego nad światłem białym, widziane oprócz innych świateł nawigacyjnych, oznacza:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-122",
+      "duplicateOf": "patent-2026-063",
+      "text": "Znak kardynalny wschodni (E):",
+      "imageSrc": "",
+      "canonicalText": "Znak kardynalny wschodni (E):",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-123",
+      "duplicateOf": "patent-2026-063",
+      "text": "Znak kardynalny, który ma stożki ustawione podstawami do siebie, a kolor pławy – czarny z żółtym pasem pośrodku, to:",
+      "imageSrc": "",
+      "canonicalText": "Znak kardynalny wschodni (E):",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-126",
+      "duplicateOf": "patent-2026-023",
+      "text": "Kurs statku żaglowego i statku o napędzie mechanicznym przecinają się; pierwszeństwo ma:",
+      "imageSrc": "",
+      "canonicalText": "Podczas gdy jeden statek płynie pod żaglami, a drugi statek płynie na silniku, to pierwszeństwo powinien ustąpić:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-127",
+      "duplicateOf": "patent-2026-023",
+      "text": "Kurs statku żaglowego i statku o napędzie mechanicznym przecinają się; pierwszeństwo ma:",
+      "imageSrc": "",
+      "canonicalText": "Podczas gdy jeden statek płynie pod żaglami, a drugi statek płynie na silniku, to pierwszeństwo powinien ustąpić:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-130",
+      "duplicateOf": "patent-2026-048",
+      "text": "Kto oprócz Policji może kontrolować dokumenty łodzi i uprawnienia kapitana?",
+      "imageSrc": "",
+      "canonicalText": "Organy uprawnione do kontrolowania dokumentów łodzi i uprawnień sternika:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-131",
+      "duplicateOf": "patent-2026-060",
+      "text": "Co to jest hipotermia?",
+      "imageSrc": "",
+      "canonicalText": "Hipotermia to:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-140",
+      "duplicateOf": "patent-2026-047",
+      "text": "Czy na skuter wodny wymagane są dodatkowe uprawnienia prócz sternika motorowodnego?",
+      "imageSrc": "",
+      "canonicalText": "Czy posiadając uprawnienia sternika motorowodnego, można prowadzić skuter wodny?",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-143",
+      "duplicateOf": "patent-2026-138",
+      "text": "Północny znak kardynalny jest oznaczony kolorem:",
+      "imageSrc": "",
+      "canonicalText": "Północny znak kardynalny ma kolor:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-145",
+      "duplicateOf": "patent-2026-069",
+      "text": "Akumulatory powinny być mocowane na jachcie:",
+      "imageSrc": "",
+      "canonicalText": "Gdzie na jachcie powinien być zainstalowany akumulator?",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-150",
+      "duplicateOf": "patent-2026-063",
+      "text": "Znak kardynalny, który ma stożki ustawione podstawami do siebie, a kolor pławy – czarny z żółtym pasem pośrodku, to:",
+      "imageSrc": "",
+      "canonicalText": "Znak kardynalny wschodni (E):",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-152",
+      "duplicateOf": "patent-2026-049",
+      "text": "Zamierzone wejście statku na piaszczysty brzeg lub mieliznę to:",
+      "imageSrc": "",
+      "canonicalText": "Sztrandowanie to:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-159",
+      "duplicateOf": "patent-2026-078",
+      "text": "Do jakiej pojemności powinny być napełniane zewnętrzne zbiorniki paliwa?",
+      "imageSrc": "",
+      "canonicalText": "Do jakiej pojemności powinniśmy napełniać zewnętrzne zbiorniki paliwa?",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-160",
+      "duplicateOf": "patent-2026-046",
+      "text": "Numer ratunkowy na wodzie to:",
+      "imageSrc": "",
+      "canonicalText": "Numer ratunkowy na wodzie (dla WOPR i MOPR) to:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-161",
+      "duplicateOf": "patent-2026-067",
+      "text": "Co to jest pawęż?",
+      "imageSrc": "",
+      "canonicalText": "Pawęż to:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-162",
+      "duplicateOf": "patent-2026-071",
+      "text": "Po uruchomieniu silnika w pierwszej kolejności należy sprawdzić:",
+      "imageSrc": "",
+      "canonicalText": "Gdy uruchomisz silnik, co najpierw sprawdzisz?",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-165",
+      "duplicateOf": "patent-2026-002",
+      "text": "W sytuacji, gdy dwa statki o napędzie mechanicznym płyną kursem wprost na siebie, to prawo drogi ma:",
+      "imageSrc": "",
+      "canonicalText": "W sytuacji, gdy dwa statki o napędzie mechanicznym płyną kursem wprost na siebie, to prawo drogi ma:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-169",
+      "duplicateOf": "patent-2026-003",
+      "text": "Statek, który „stoi na kotwicy”, powinien pokazywać:",
+      "imageSrc": "",
+      "canonicalText": "Statek, który „stoi na kotwicy”, powinien pokazywać:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-171",
+      "duplicateOf": "patent-2026-054",
+      "text": "Co oznacza skrót BLS?",
+      "imageSrc": "",
+      "canonicalText": "Co oznacza skrót BLS?",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-172",
+      "duplicateOf": "patent-2026-055",
+      "text": "W resuscytacji osoby dorosłej wykonujemy:",
+      "imageSrc": "",
+      "canonicalText": "W resuscytacji osoby dorosłej wykonujemy:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-173",
+      "duplicateOf": "patent-2026-058",
+      "text": "Podczas RKO klatkę piersiową uciskamy w tempie:",
+      "imageSrc": "",
+      "canonicalText": "Podczas RKO klatkę piersiową uciskamy w tempie:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-174",
+      "duplicateOf": "patent-2026-059",
+      "text": "Pozycja bezpieczna to:",
+      "imageSrc": "",
+      "canonicalText": "Pozycja bezpieczna to:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-175",
+      "duplicateOf": "patent-2026-068",
+      "text": "Pagaje to:",
+      "imageSrc": "",
+      "canonicalText": "Pagaje to:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-176",
+      "duplicateOf": "patent-2026-070",
+      "text": "Jakie informacje należy podać operatorowi numeru alarmowego podczas wzywania pomocy?",
+      "imageSrc": "",
+      "canonicalText": "Jakie informacje należy podać operatorowi numeru alarmowego podczas wzywania pomocy?",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-177",
+      "duplicateOf": "patent-2026-081",
+      "text": "Manetka silnika stacjonarnego ustawiona jest przy rozruchu:",
+      "imageSrc": "",
+      "canonicalText": "Manetka silnika stacjonarnego ustawiona jest przy rozruchu:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-178",
+      "duplicateOf": "patent-2026-083",
+      "text": "Manetka to:",
+      "imageSrc": "",
+      "canonicalText": "Manetka to:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-179",
+      "duplicateOf": "patent-2026-084",
+      "text": "Olej do silnika wlewamy do silnika:",
+      "imageSrc": "",
+      "canonicalText": "Olej do silnika wlewamy do silnika:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-180",
+      "duplicateOf": "patent-2026-086",
+      "text": "Przed uruchomieniem poziom oleju w silniku sprawdzamy w silniku:",
+      "imageSrc": "",
+      "canonicalText": "Przed uruchomieniem poziom oleju w silniku sprawdzamy w silniku:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-181",
+      "duplicateOf": "patent-2026-041",
+      "text": "Budowa napędu strugowego charakteryzuje się:",
+      "imageSrc": "",
+      "canonicalText": "Budowa napędu strugowodnego charakteryzuje się:",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-182",
+      "duplicateOf": "patent-2026-088",
+      "text": "Czy silnik dwusuwowy posiada miskę olejową?",
+      "imageSrc": "",
+      "canonicalText": "Czy silnik dwusuwowy posiada miskę olejową?",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-183",
+      "duplicateOf": "patent-2026-075",
+      "text": "Jakie proporcje oleju silnikowego i benzyny używa się w silnikach 2-suwowych?",
+      "imageSrc": "",
+      "canonicalText": "Jakie proporcje oleju silnikowego i benzyny używa się w silnikach 2-suwowych?",
+      "canonicalImageSrc": ""
+    },
+    {
+      "id": "patent-2026-184",
+      "duplicateOf": "patent-2026-091",
+      "text": "Siła wiatru wyrażana jest w:",
+      "imageSrc": "",
+      "canonicalText": "Siła wiatru wyrażana jest w:",
+      "canonicalImageSrc": ""
+    }
+  ]
+}

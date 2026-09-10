@@ -1,3 +1,5 @@
+import deduplication from "../data/question-deduplication.json" with { type: "json" };
+
 export type Question = {
   id: string;
   category: string;
@@ -16,10 +18,29 @@ export type Session = {
   answers: number[];
   done: boolean;
 };
+function contentKey(text: string, imageSrc = ""): string {
+  // Ignore typography, but keep numbers and Polish letters significant.
+  return JSON.stringify([
+    text.normalize("NFKC").toLocaleLowerCase("pl").replace(/[^\p{L}\p{N}]+/gu, " ").trim(),
+    imageSrc,
+  ]);
+}
+const equivalentContent = new Map(
+  deduplication.duplicates.map((q) => [
+    contentKey(q.text, q.imageSrc),
+    contentKey(q.canonicalText, q.canonicalImageSrc),
+  ]),
+);
+export function questionKey(q: Question): string {
+  const key = contentKey(q.text, q.image?.src);
+  return equivalentContent.get(key) ?? key;
+}
+
 export function validateQuestions(data: unknown): Question[] {
   if (!Array.isArray(data) || data.length < 75)
     throw new Error("Baza musi zawierać co najmniej 75 pytań.");
   const ids = new Set<string>();
+  const contents = new Set<string>();
   for (const q of data) {
     if (
       !q ||
@@ -43,6 +64,9 @@ export function validateQuestions(data: unknown): Question[] {
     )
       throw new Error("Nieprawidłowe pytanie w bazie.");
     ids.add(q.id);
+    const key = questionKey(q);
+    if (contents.has(key)) throw new Error("Powtórzona treść pytania w bazie.");
+    contents.add(key);
   }
   return data;
 }
@@ -52,9 +76,18 @@ export function createSession(
   instant: boolean,
   random = Math.random,
 ): Session {
-  if (![15, 30, 45, 60, 75].includes(count) || count > bank.length)
+  // Defend callers that bypass validation, including repeated IDs or aliases.
+  const ids = new Set<string>();
+  const contents = new Set<string>();
+  const pool = bank.filter((q) => {
+    const key = questionKey(q);
+    const duplicate = ids.has(q.id) || contents.has(key);
+    ids.add(q.id);
+    contents.add(key);
+    return !duplicate;
+  });
+  if (![15, 30, 45, 60, 75].includes(count) || count > pool.length)
     throw new Error("Nieprawidłowa liczba pytań.");
-  const pool = [...bank];
   for (let i = pool.length - 1; i > 0; i--) {
     const j = Math.floor(random() * (i + 1));
     [pool[i], pool[j]] = [pool[j], pool[i]];

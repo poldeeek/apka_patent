@@ -147,6 +147,11 @@ def main():
                         "Questions 115–117 share the original drawing from page 13.",
                         "Repeated questions and original wording are retained. The PDF contains no explanations."],
               "questions": audit}
+    # Keep the complete PDF audit, but never reintroduce reviewed duplicates.
+    rules = json.loads((ROOT / "data/question-deduplication.json").read_text())
+    excluded = {q["id"] for q in rules["duplicates"]}
+    assert excluded <= {q["id"] for q in bank}, "Unknown duplicate IDs"
+    bank = [q for q in bank if q["id"] not in excluded]
     outputs = {ROOT / "data/questions.json": bank, ROOT / "data/questions-source.json": report}
     if args.check:
         from PIL import Image, ImageChops
